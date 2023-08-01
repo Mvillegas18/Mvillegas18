@@ -14,7 +14,7 @@ I have been training for a few months mainly in front-end developer, learning di
 *   ✉️  You can contact me at [miguelvillegas.dev19@outlook.com](mailto:miguelvillegas.dev19@outlook.com)
 *   🚀  I'm currently working on [MyApp](http://#)
 *   🧠  I'm learning Angular and Spring Boot
-*   🤝  I'm open to collaborating on Interesting and passionate projects### Skills 
+*   🤝  I'm open to collaborating on Interesting and passionate projects Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -23,26 +23,10 @@ I have been training for a few months mainly in front-end developer, learning di
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 </p>
-                    
-                  ### Socials
+
+### Socials
                   
-                  
-                <p align="left">
-                          
-                      <a href="https://discord.com/users/_miguelvillegas_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/Mvillegas18" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/miguel-angel-villegas-arango" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/_miguelvillegas_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Mvillegas18" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/miguel-angel-villegas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 
-# About me in code:
-```js
-  pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Python, Java],
-  tools: [React, Redux, Node, Tailwind CSS, Jest, Testing Library]
-```
-## You can find me 🌐:
-- [Email](miguelvillegas.dev19@outlook.com)
-- [Linkedin](https://www.linkedin.com/in/miguel-angel-villegas-arango/)
 
