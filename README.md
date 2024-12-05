@@ -10,10 +10,10 @@ Software Developer
 I have been training for a few months mainly in front-end developer, learning different technologies including React, TypeScript and Java. I am truly passionate about creating solutions that other people can enjoy.
 
 *   🌍  I'm based in Medellin
-*   🖥️  See my portfolio at [MyPortfolio](http://#)
+*   🖥️  You can see my portfolio soon [MyPortfolio](http://#)
 *   ✉️  You can contact me at [miguelvillegas.dev19@outlook.com](mailto:miguelvillegas.dev19@outlook.com)
-*   🚀  I'm currently working on [MyApp](http://#)
-*   🧠  I'm learning Angular and Spring Boot
+*   🚀  I'm currently working on [MyPortfolio](http://#)
+*   🧠  I'm learning nestJS and Java
 *   🤝  I'm open to collaborating on Interesting and passionate projects Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
