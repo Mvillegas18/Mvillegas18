@@ -1,5 +1,5 @@
 
-![Portada-Miguel-Villegas](https://github.com/Mvillegas18/Mvillegas18/assets/108032325/4ba42ec0-4b94-44d9-aedc-c3dee27dfd1f)
+![Portada-Miguel-Villegas]()
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Miguel Angel Villegas
 =============================================================================================================================================
